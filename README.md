@@ -20,4 +20,4 @@ This application is for transferring used second-hand picture books that are no 
 * 寄付団体紹介ページ
 
 ### copyright
-* 2018 Repibo
+* 2018 Repibo# repibo
